@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Astral Connector</string>
+    <string name="notification_channel_id">astral_proxy</string>
+    <string name="notification_channel_name">Astral Proxy</string>
+    <string name="notification_title">Astral Connector Active</string>
+    <string name="notification_text">Proxying Minecraft Bedrock server via LAN</string>
+</resources>
